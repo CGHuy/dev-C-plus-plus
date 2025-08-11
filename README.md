@@ -1,1 +1,1 @@
-Những bài tập liên quan tới C++
+Những bài tập sử dụng ngôn ngữ C++
